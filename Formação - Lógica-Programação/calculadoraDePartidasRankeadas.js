@@ -24,6 +24,7 @@ if (saldoDeViotiras <= 10) {
     console.log("O Herói tem de saldo de " + saldoDeViotiras + " vitorias e" + " está no níel de " + nivel)
 } else (saldoDeViotiras >= 101)
 nivel = "Imortal"
+
 console.log("O Herói tem de saldo de " + saldoDeViotiras + " vitorias e" + " está no níel de " + nivel)
 
 
